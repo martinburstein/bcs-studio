@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "method": "Independent checker written for this review; exact integer and Fraction arithmetic; exhaustive profiles and unilateral deviations on the specified finite grid.",
+  "p3": {
+    "evenParityMarginals": [
+      "1/2",
+      "1/2",
+      "1/2"
+    ],
+    "evenParityPairwiseIntersections": [
+      "1/4",
+      "1/4",
+      "1/4"
+    ],
+    "evenParityTriple": "0",
+    "independentTriple": "1/8"
+  },
+  "p4ComplementaryCases": 1872,
+  "p5SharedProviderCases": 1872,
+  "welfareChecks": 3744,
+  "transferFeasibilityCases": 649,
+  "actionProfilesAcrossBothGames": 28800,
+  "p6MixedExamples": 4,
+  "domain": {
+    "n": [
+      2,
+      3
+    ],
+    "benefits": "integer 0..3",
+    "costs": "integer 1..3"
+  },
+  "limits": [
+    "Finite-grid replay confirms stated formulas only on the enumerated domain; general proofs remain algebraic under explicit assumptions.",
+    "No empirical, deployment, AI-capability, attack, loss, or portfolio inference."
+  ]
+}

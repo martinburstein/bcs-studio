@@ -1,0 +1,305 @@
+{
+  "asOfDate": "2026-11-14",
+  "scope": "Public source-reading record. Retained bytes and actual reading scope are distinct. Source bodies remain with their original hosts; this release does not redistribute them.",
+  "sources": [
+    {
+      "key": "R1",
+      "authors": "Michael C. Jensen; William H. Meckling",
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
+      "publicationDate": "1976; Journal of Financial Economics 3, pp. 305–360",
+      "sourceKind": "Primary journal article; retained copy hosted at a third-party economics site; no author/publisher hosting relationship verified.",
+      "url": "https://www.liuyanecon.com/wp-content/uploads/JensenMeckling-1976.pdf",
+      "bodySha256": "3e1ba350ce63346fbf462d77ca11941254c7f87313df2c1181f6edc593faf8b4",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "PDF pp. 1–2 (printed pp. 305–306), title/abstract and opening theory context; PDF pp. 4–6 (printed pp. 308–310), agency relationship, delegated decision authority, monitoring, bonding, residual loss, and agency-cost definition. PDF p.3 is printed p.307.",
+      "readingScope": "Complete 56-page PDF retained; for this revision read pp. 1–2 and pp. 4–6; page 3 was not needed for the claims stated.",
+      "claims": [
+        "R1-C1"
+      ],
+      "limits": "The model analyzes firms and contracting; the text applies its logic to software only as a carefully labeled extension. No claim of universal opportunism.",
+      "reviewedSourceKind": "Primary journal article; retained copy hosted at a third-party economics site; no author/publisher hosting relationship verified.",
+      "reviewedLocators": "PDF pp. 1–2 (printed pp. 305–306), title/abstract and opening theory context; PDF pp. 4–6 (printed pp. 308–310), agency relationship, delegated decision authority, monitoring, bonding, residual loss, and agency-cost definition. PDF p.3 is printed p.307.",
+      "bodyActuallyReadLimit": "Complete 56-page PDF retained; for this revision read pp. 1–2 and pp. 4–6; page 3 was not needed for the claims stated.",
+      "hostProvenanceCorrection": "Earlier label said author-hosted; retained copy is on a third-party economics site and author hosting was not verified."
+    },
+    {
+      "key": "R2",
+      "authors": "George A. Akerlof",
+      "title": "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism",
+      "publicationDate": "1970; Quarterly Journal of Economics 84(3), pp. 488–500",
+      "sourceKind": "Primary journal article; JSTOR scan mirrored at the Pacific Institute for the Mathematical Sciences site; no author-hosting relationship verified.",
+      "url": "https://pims.math.ca/files/Akerlof1970.pdf",
+      "bodySha256": "ab576bc23979e49211de4c4475f867f22f0be99b233a0efadd011d4b491d8550",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "PDF pp. 2–5 (printed pp. 488–491), used-car example and asymmetric information; pp. 13–14 (printed pp. 499–500), counteracting institutions. PDF p.1 is JSTOR front matter.",
+      "readingScope": "Complete article PDF retained; for this revision read pp. 2–5 and 13–14.",
+      "claims": [
+        "R2-C1",
+        "R2-C2"
+      ],
+      "limits": "The paper calls the automobile example a finger exercise selected for concreteness rather than realism. Market failure is conditional; counteracting institutions are part of the paper.",
+      "reviewedSourceKind": "Primary journal article; JSTOR scan mirrored at the Pacific Institute for the Mathematical Sciences site; no author-hosting relationship verified.",
+      "reviewedLocators": "PDF pp. 2–5 (printed pp. 488–491), used-car example and asymmetric information; pp. 13–14 (printed pp. 499–500), counteracting institutions. PDF p.1 is JSTOR front matter.",
+      "bodyActuallyReadLimit": "Complete article PDF retained; for this revision read pp. 2–5 and 13–14.",
+      "hostProvenanceCorrection": "Earlier label said author-hosted; retained JSTOR scan is mirrored at PIMS and author hosting was not verified."
+    },
+    {
+      "key": "R3",
+      "authors": "Douglas W. Diamond; Philip H. Dybvig",
+      "title": "Bank Runs, Deposit Insurance, and Liquidity",
+      "publicationDate": "1983; Journal of Political Economy 91(3), pp. 401–419",
+      "sourceKind": "Primary journal article; scan hosted on a University of Minnesota Economics faculty site.",
+      "url": "https://users.econ.umn.edu/~tkehoe/classes/DiamondDybvig.pdf",
+      "bodySha256": "4b41c8c32241b44c043aed9067ea2960193751ba17906a7ca813039420acd68f",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "PDF pp. 1–4 (printed pp. 401–404), abstract, liquidity transformation, run mechanism, and contracts/policies that can prevent runs.",
+      "readingScope": "Complete article PDF retained; for this revision read pp. 1–4, not the proofs or later replications.",
+      "claims": [
+        "R3-C1",
+        "R3-C2"
+      ],
+      "limits": "Model assumptions are narrow. The authors explicitly note that adding risky portfolios and moral hazard changes the analysis.",
+      "reviewedSourceKind": "Primary journal article; scan hosted on a University of Minnesota Economics faculty site.",
+      "reviewedLocators": "PDF pp. 1–4 (printed pp. 401–404), abstract, liquidity transformation, run mechanism, and contracts/policies that can prevent runs.",
+      "bodyActuallyReadLimit": "Complete article PDF retained; for this revision read pp. 1–4, not the proofs or later replications."
+    },
+    {
+      "key": "R4",
+      "authors": "Hyman P. Minsky",
+      "title": "The Financial Instability Hypothesis",
+      "publicationDate": "May 1992; Levy Economics Institute Working Paper 74, prepared for a 1993 handbook",
+      "sourceKind": "Primary working paper; Levy Economics Institute institutional-hosted full text.",
+      "url": "https://www.levyinstitute.org/pubs/wp74.pdf",
+      "bodySha256": "2f398ba68576fb9bb670294aa383f19511f7b6698ba8a177b3739862e484db61",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "Opening framework: working-paper PDF pp. 2–5, payment commitments, financing over time, debt and cash receipts. Financing categories: PDF p.8, hedge, speculative, and Ponzi finance definitions and the stated relation to system behavior; PDF pp.6–7 identify the category framework and intermediary financing context.",
+      "readingScope": "Complete 10-page working paper retained; for this revision read pp. 2–5 for the opening framework and pp. 6–8 for the financing-category passage. No claim of complete-work reading.",
+      "claims": [
+        "R4-C1"
+      ],
+      "limits": "Historical financial theory, not an AI or crypto study; categories are analytic, not moral diagnoses or forecasts.",
+      "reviewedSourceKind": "Primary working paper; Levy Economics Institute institutional-hosted full text.",
+      "reviewedLocators": "Opening framework: working-paper PDF pp. 2–5, payment commitments, financing over time, debt and cash receipts. Financing categories: PDF p.8, hedge, speculative, and Ponzi finance definitions and the stated relation to system behavior; PDF pp.6–7 identify the category framework and intermediary financing context.",
+      "bodyActuallyReadLimit": "Complete 10-page working paper retained; for this revision read pp. 2–5 for the opening framework and pp. 6–8 for the financing-category passage. No claim of complete-work reading."
+    },
+    {
+      "key": "R5",
+      "authors": "Markus K. Brunnermeier; Lasse Heje Pedersen",
+      "title": "Market Liquidity and Funding Liquidity",
+      "publicationDate": "2009; Review of Financial Studies 22(6), pp. 2201–2238; advance published 26 November 2008",
+      "sourceKind": "Primary theoretical finance article; third-party-hosted copy; no author/publisher hosting relationship verified.",
+      "url": "https://www.edegan.com/pdfs/Brunnermeier%20Pedersen%20%282009%29%20-%20Market%20Liquidity%20and%20Funding%20Liquidity.pdf",
+      "bodySha256": "9ae6410e72f1cde8d806e274367a962cf3147b08caef802954d82f1df4d03f9e",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "Article PDF pp. 1–2 (printed pp. 2201–2202), abstract and framing; pp. 8–10, model and funding/margin constraint; p. 21, implications and potential policy stabilizers.",
+      "readingScope": "Complete article PDF retained; for this revision read pp. 1–2, 8–10, and 21 only. No full proof audit or independent replication.",
+      "claims": [
+        "R5-C1",
+        "R5-C2"
+      ],
+      "limits": "The model is conditional and does not estimate any incremental automation effect.",
+      "reviewedSourceKind": "Primary theoretical finance article; third-party-hosted copy; no author/publisher hosting relationship verified.",
+      "reviewedLocators": "Article PDF pp. 1–2 (printed pp. 2201–2202), abstract and framing; pp. 8–10, model and funding/margin constraint; p. 21, implications and potential policy stabilizers.",
+      "bodyActuallyReadLimit": "Complete article PDF retained; for this revision read pp. 1–2, 8–10, and 21 only. No full proof audit or independent replication.",
+      "hostProvenanceCorrection": "Earlier label said author-hosted; retained article copy is on a third-party host and author hosting was not verified."
+    },
+    {
+      "key": "R6",
+      "authors": "Albert S. Kyle",
+      "title": "Continuous Auctions and Insider Trading",
+      "publicationDate": "November 1985; Econometrica 53(6), pp. 1315–1335",
+      "sourceKind": "Primary journal article; JSTOR scan reproduced on a third-party host; retained PDF includes JSTOR front matter.",
+      "url": "https://www.edegan.com/pdfs/Kyle%20%281985%29%20-%20Continuous%20Auctions%20and%20Insider%20Trader.pdf",
+      "bodySha256": "044aa02729de96836433a533773b595fe9ce2234dc7783efbf82dd6230d2f2c9",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "PDF pp. 2–9 (printed pp. 1315–1322), abstract, model setup, order flow, noise-trader camouflage, and liquidity discussion. PDF p.1 is JSTOR front matter and not printed article page 1315.",
+      "readingScope": "Complete 22-page scan retained; for this revision read pp. 2–9 only.",
+      "claims": [
+        "R6-C1",
+        "R6-C2"
+      ],
+      "limits": "A stylized market-microstructure model; it does not identify the cause of a specific observed price move.",
+      "reviewedSourceKind": "Primary journal article; JSTOR scan reproduced on a third-party host; retained PDF includes JSTOR front matter.",
+      "reviewedLocators": "PDF pp. 2–9 (printed pp. 1315–1322), abstract, model setup, order flow, noise-trader camouflage, and liquidity discussion. PDF p.1 is JSTOR front matter and not printed article page 1315.",
+      "bodyActuallyReadLimit": "Complete 22-page scan retained; for this revision read pp. 2–9 only."
+    },
+    {
+      "key": "R7",
+      "authors": "Herbert A. Simon",
+      "title": "A Behavioral Model of Rational Choice",
+      "publicationDate": "February 1955; Quarterly Journal of Economics 69(1), pp. 99–118",
+      "sourceKind": "Primary journal article; JSTOR scan reproduced at a third-party archive site.",
+      "url": "https://cooperative-individualism.org/simon-herbert_a-behavioral-model-of-rational-choice-1955-feb.pdf",
+      "bodySha256": "25bf76dd1b4370d6d66d53aecb311ea6d6f486141a3dd4b8d629d0ebe3c6dfcf",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "PDF pp. 2–3 (printed pp. 99–100), introduction and critique of assumed comprehensive knowledge and calculation. PDF p.1 is JSTOR front matter.",
+      "readingScope": "Complete 21-page scan retained; for this revision read pp. 2–3 only.",
+      "claims": [
+        "R7-C1"
+      ],
+      "limits": "Simon addresses human and organizational decision-making; software application here is explicitly a modern analytical extension.",
+      "reviewedSourceKind": "Primary journal article; JSTOR scan reproduced at a third-party archive site.",
+      "reviewedLocators": "PDF pp. 2–3 (printed pp. 99–100), introduction and critique of assumed comprehensive knowledge and calculation. PDF p.1 is JSTOR front matter.",
+      "bodyActuallyReadLimit": "Complete 21-page scan retained; for this revision read pp. 2–3 only."
+    },
+    {
+      "key": "R8",
+      "authors": "Herbert A. Simon",
+      "title": "Programs as Factors of Production",
+      "publicationDate": "Catalogued as 1967; archival reprint from Proceedings of the Nineteenth Annual Winter Meeting, Industrial Relations Research Association",
+      "sourceKind": "Primary author paper; archival proceedings reprint in Carnegie Mellon University library repository.",
+      "url": "https://iiif.library.cmu.edu/file/Simon_box00065_fld04984_bdl0001_doc0001/Simon_box00065_fld04984_bdl0001_doc0001.pdf",
+      "bodySha256": "6bf1b078cc3ba70c951685f0448e4551f3d0be465b483d4d427f26eeb62c19f4",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "PDF pp. 1–3, archival reprint cover and opening discussion of software/hardware and navigator analogy; no stable printed page numbers visible.",
+      "readingScope": "Complete 12-page archival reprint retained; for this revision read pp. 1–3 only. Catalogued 1967 date; meeting year and pagination unconfirmed in retained copy.",
+      "claims": [
+        "R8-C1"
+      ],
+      "limits": "The source is an archival proceedings reprint. The exact meeting year and printed page range are not legible in this copy; citation is limited to the cataloged 1967 date.",
+      "reviewedSourceKind": "Primary author paper; archival proceedings reprint in Carnegie Mellon University library repository.",
+      "reviewedLocators": "PDF pp. 1–3, archival reprint cover and opening discussion of software/hardware and navigator analogy; no stable printed page numbers visible.",
+      "bodyActuallyReadLimit": "Complete 12-page archival reprint retained; for this revision read pp. 1–3 only. Catalogued 1967 date; meeting year and pagination unconfirmed in retained copy."
+    },
+    {
+      "key": "R9",
+      "authors": "W. Brian Arthur",
+      "title": "Inductive Reasoning and Bounded Rationality",
+      "publicationDate": "May 1994; American Economic Review 84(2), Papers and Proceedings, pp. 406–411",
+      "sourceKind": "Primary theoretical journal paper; JSTOR scan mirrored by TU Delft OpenCourseWare (not a JSTOR-hosted URL).",
+      "url": "https://ocw.tudelft.nl/wp-content/uploads/ElFarolArtur1994.pdf",
+      "bodySha256": "811b2aca39098440773ef32236a97ec3a901548b71347d209adf298fc52e4290",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "PDF pp. 2–5 (printed pp. 406–409), opening account of inductive reasoning and adapting hypotheses. PDF p.1 is JSTOR front matter.",
+      "readingScope": "Complete seven-page paper retained; for this revision read pp. 2–5 only.",
+      "claims": [
+        "R9-C1"
+      ],
+      "limits": "This short theoretical paper motivates a modeling approach; it does not predict that agents converge on a particular outcome.",
+      "reviewedSourceKind": "Primary theoretical journal paper; JSTOR scan mirrored by TU Delft OpenCourseWare (not a JSTOR-hosted URL).",
+      "reviewedLocators": "PDF pp. 2–5 (printed pp. 406–409), opening account of inductive reasoning and adapting hypotheses. PDF p.1 is JSTOR front matter.",
+      "bodyActuallyReadLimit": "Complete seven-page paper retained; for this revision read pp. 2–5 only."
+    },
+    {
+      "key": "R10",
+      "authors": "Emilio Calvano; Giacomo Calzolari; Vincenzo Denicolò; Sergio Pastorello",
+      "title": "Artificial Intelligence, Algorithmic Pricing, and Collusion",
+      "publicationDate": "October 2020; American Economic Review 110(10), pp. 3267–3297; retained author manuscript dated December 2019",
+      "sourceKind": "Primary computational simulation study; manuscript hosted in the Toulouse School of Economics institutional repository, an author-affiliated institution; personally author-hosted status is not established.",
+      "url": "https://www.tse-fr.eu/sites/default/files/TSE/documents/ExEdu/paper_1_calvano.pdf",
+      "bodySha256": "63e890aaf175c6ef35fb89dc1f02eddb044ce3acd97546ca9532350b60da6eb2",
+      "capturedAtUtc": "unknown (individual HTTP receipt time not preserved/verified)",
+      "locators": "December 2019 manuscript PDF pp. 1–3 (abstract, introduction, model setting and scope); pp. 5–6 (Q-learning setup). Journal bibliographic citation is the 2020 version.",
+      "readingScope": "Complete 38-page December 2019 author manuscript retained; for this revision read pp. 1–3 and 5–6. No independent code replication or full appendix audit.",
+      "claims": [
+        "R10-C1",
+        "R10-C2"
+      ],
+      "limits": "Simulation evidence is confined to stated model and parameters; it is not evidence of collusion by a deployed firm, intention, or universal outcomes.",
+      "reviewedSourceKind": "Primary computational simulation study; manuscript hosted in the Toulouse School of Economics institutional repository, an author-affiliated institution; personally author-hosted status is not established.",
+      "reviewedLocators": "December 2019 manuscript PDF pp. 1–3 (abstract, introduction, model setting and scope); pp. 5–6 (Q-learning setup). Journal bibliographic citation is the 2020 version.",
+      "bodyActuallyReadLimit": "Complete 38-page December 2019 author manuscript retained; for this revision read pp. 1–3 and 5–6. No independent code replication or full appendix audit."
+    }
+  ],
+  "claimAnchors": [
+    {
+      "claimId": "R1-C1",
+      "section": "1. Begin with incentives and authority",
+      "anchor": "Jensen and Meckling’s theory of the firm treats firms as arrangements of contracts and analyzes agency costs when control and financial claims are divided.",
+      "sourceKeys": [
+        "R1"
+      ],
+      "interpretation": "Source-reported framework; no allegation of universal opportunism."
+    },
+    {
+      "claimId": "R2-C1/C2",
+      "section": "2. Ask who knows what",
+      "anchor": "Akerlof’s used-car example illustrates conditional adverse selection; the article also discusses guarantees, brands, and enforcement.",
+      "sourceKeys": [
+        "R2"
+      ],
+      "interpretation": "Source-reported mechanism and institutions. Modern custody/haircut examples are explicitly labeled as extensions."
+    },
+    {
+      "claimId": "R3-C1",
+      "section": "3. Follow the crowd and the balance sheet",
+      "anchor": "Demand-deposit contracts can provide liquidity and under model assumptions allow multiple equilibria including a run.",
+      "sourceKeys": [
+        "R3"
+      ],
+      "interpretation": "Model result, not directly generalized to all crypto arrangements."
+    },
+    {
+      "claimId": "R3-C2",
+      "section": "3. Follow the crowd and the balance sheet",
+      "anchor": "Fictional warehouse example: $10m initial assets/liabilities; $8.5m cash; $1.5m loans; $9.5m redemption; 20% haircut.",
+      "sourceKeys": [
+        "R3"
+      ],
+      "interpretation": "Synthetic arithmetic only: gap $1m; loan sales $1m/(1−0.20)=$1.25m; loss $0.25m; remaining $0.5m claims vs $0.25m loans, shortfall $0.25m absent other assets/credit."
+    },
+    {
+      "claimId": "R4-C1",
+      "section": "3. Follow the crowd and the balance sheet",
+      "anchor": "Minsky analyzes how payment commitments and financing structures can amplify movements.",
+      "sourceKeys": [
+        "R4"
+      ],
+      "interpretation": "Historical financial theory; not an AI or crypto study."
+    },
+    {
+      "claimId": "R5-C1/C2",
+      "section": "3. Follow the crowd and the balance sheet",
+      "anchor": "Brunnermeier and Pedersen model a two-way link between funding capacity and market liquidity, with conditional amplification and stabilizing conditions.",
+      "sourceKeys": [
+        "R5"
+      ],
+      "interpretation": "Conditional theoretical result, no claimed automation effect."
+    },
+    {
+      "claimId": "R6-C1",
+      "section": "4. A price is evidence, not an oracle",
+      "anchor": "In Kyle’s model, noise-trader orders camouflage informed order flow.",
+      "sourceKeys": [
+        "R6"
+      ],
+      "interpretation": "Model mechanism, not evidence about actual crypto flows."
+    },
+    {
+      "claimId": "R7-C1",
+      "section": "5. Rules and software shape the result",
+      "anchor": "Simon critiques assumptions of complete information and unlimited calculation.",
+      "sourceKeys": [
+        "R7"
+      ],
+      "interpretation": "Modern software application is the book’s extension."
+    },
+    {
+      "claimId": "R8-C1",
+      "section": "5. Rules and software shape the result",
+      "anchor": "Simon examines programs as factors of production and software capabilities.",
+      "sourceKeys": [
+        "R8"
+      ],
+      "interpretation": "No assertion of legal agency, ownership, or personhood."
+    },
+    {
+      "claimId": "R9-C1",
+      "section": "6. Adaptation is a mechanism, not a motive",
+      "anchor": "Arthur describes hypothesis formation and revision through feedback.",
+      "sourceKeys": [
+        "R9"
+      ],
+      "interpretation": "Modeling approach, not prediction of a particular outcome."
+    },
+    {
+      "claimId": "R10-C1/C2",
+      "section": "6–7. Adaptation and crypto bridge",
+      "anchor": "Calvano et al. report above-competitive outcomes for Q-learning algorithms in a specified simulated repeated pricing game.",
+      "sourceKeys": [
+        "R10"
+      ],
+      "interpretation": "Bounded simulation evidence; does not establish deployed collusion, intention, or a crypto mechanism."
+    }
+  ]
+}

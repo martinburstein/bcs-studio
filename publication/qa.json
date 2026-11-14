@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-14",
+  "scope": "Editorial public export of existing internally reviewed research; no new research or change of scientific status.",
+  "documents": {
+    "ai-crypto-fragility": {
+      "pages": 22,
+      "sha256": "b66514cb26e2079d88a85aaaf2f1237d804ae5b42e41998cee96bdd82bf6fd60",
+      "sourceMarkdownSha256": "9da81e3ce892a182f83433a113dced86d49257adb0714861c0495d42e778b413",
+      "allPagesVisuallyReviewed": true
+    },
+    "black-book": {
+      "pages": 37,
+      "sha256": "7ebba74476c33b2894b8f17c073d9cdccb9ab32e602c645aa7579e6717358303",
+      "sourceMarkdownSha256": "7b390ef4223b48704c6d578fd4fed8f516457792ebc5ae37e938fe4d0bb71c52",
+      "allPagesVisuallyReviewed": true
+    },
+    "blue-book": {
+      "pages": 10,
+      "sha256": "b6ac56e92adca7be9aa4fa55aa8949c73be10bd20b5ec2f95371ea305db75fb4",
+      "sourceMarkdownSha256": "fa23550b11a5da6f60dd39c0246c9c7c46080b0ddd10644d83a29de583ce372b",
+      "allPagesVisuallyReviewed": true
+    }
+  },
+  "visualMethod": "All 69 original public-edition page renders inspected in contact sheets. Final Black Book revision: seven changed pages re-inspected; thirty unchanged pages proved pixel-identical to the inspected renders.",
+  "finalBlackBookPixelComparison": {
+    "pages": 37,
+    "unchangedPages": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      32
+    ],
+    "changedPages": [
+      3,
+      31,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "changedContactSheets": 2,
+    "boundsPassed": true
+  },
+  "pageTextBounds": "All words inside page bounds in Poppler bounding-box extraction.",
+  "privacyChecks": "Personal holdings/balances/account labels, credentials, local paths and private review URLs absent from final text and PDF links.",
+  "modelChecks": "Both preserved exact-arithmetic replay programs passed; finite-domain results retained.",
+  "sourceVerification": "Selected source files matched the final verified private checkpoint before editorial transformations.",
+  "scientificReviewStatus": "AI-assisted internal review; no external peer review, calibrated collapse probability or trade-readiness certification."
+}

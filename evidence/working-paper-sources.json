@@ -1,0 +1,219 @@
+{
+  "asOfDate": "2026-11-14",
+  "scope": "Public source-reading record. Retained bytes and actual reading scope are distinct. Source bodies remain with their original hosts; this release does not redistribute them.",
+  "sources": [
+    {
+      "id": "A-ANDERSON2001",
+      "title": "Why Information Security is Hard—An Economic Perspective",
+      "authors": "Ross J. Anderson",
+      "publicationVersionDate": "ACSAC 2001 primary conference paper; PDF metadata created 2001-10-02, modified 2001-10-11",
+      "url": "https://www.acsac.org/2001/papers/110.pdf",
+      "sourceType": "Primary conference paper hosted by the conference",
+      "bodySha256": "eb9ef77bf3ef394a176e63d13aeb16e0612a9ffb3271ce4509ee8d215cba8dec",
+      "bodyBytes": 105484,
+      "actualReading": "Complete 8-page PDF extracted and read; title/abstract, §§1–2, liability and offense/defense discussions, conclusion and references checked.",
+      "locators": "PDF pp. 1–8; printed paper pages 358–365 per conference proceedings citation. Claims used from abstract and §§1–2, conclusion.",
+      "supports": "Security incentives, externalities, assignment of responsibility/liability, and the possibility that protector and loss bearer differ; no crypto incident rate.",
+      "limits": "Conceptual argument and cases from the security context of its publication; no cryptocurrency exposure or outcome estimate."
+    },
+    {
+      "id": "A-VARIAN2004",
+      "title": "System Reliability and Free Riding",
+      "authors": "Hal R. Varian",
+      "publicationVersionDate": "Author PDF says February 2001; this version November 30, 2004; no journal venue established from the body.",
+      "url": "https://people.ischool.berkeley.edu/~hal/Papers/2004/reliability.pdf",
+      "sourceType": "Primary author manuscript hosted on author’s Berkeley page",
+      "bodySha256": "48789bac7b4855b4764fda3a1cc24e0a5f03e74a043ff61214d9f728002ca7db",
+      "bodyBytes": 117788,
+      "actualReading": "Title page/abstract, §§1–3 and §7 selected portions read; PDF full text retained, not full paper read.",
+      "locators": "PDF pp. 1–3 for total effort/weakest link/best shot and computer reliability framing; §7, printed/PDF pp. 8–10 for fine/liability discussion.",
+      "supports": "Existing reliability/public-good taxonomy and liability analysis antecedent to the stylized B/E games.",
+      "limits": "Not a named crypto protocol, migration survey or empirical adoption effect; publication venue not asserted. The frozen search phrase’s ‘Journal of Public Economics’ is unverified and omitted."
+    },
+    {
+      "id": "A-FARRELL-SALONER1985",
+      "title": "Standardization, Compatibility, and Innovation",
+      "authors": "Joseph Farrell; Garth Saloner",
+      "publicationVersionDate": "RAND Journal of Economics 16(1), Spring 1985, pp. 70–83",
+      "url": "https://sjbae.pbworks.com/w/file/fetch/41532753/farrell_saloner_1985.pdf",
+      "sourceType": "Primary journal article scan; third-party host",
+      "bodySha256": "d313cdb7d7b0220406edaf1cff84377300534827345f7b1a09795e9763bc5349",
+      "bodyBytes": 1106918,
+      "actualReading": "Selected primary passages read: abstract/§1, §2 complete-information sequential-switching result, §3 opening on incomplete information, §4 communication opening, conclusion/proof discussion. Complete PDF retained, not every page read.",
+      "locators": "Printed pp. 70–73 (abstract, §1, §2); pp. 75–76 (§3 setup); pp. 80–83 (§4 communication and conclusion).",
+      "supports": "Compatibility benefits and switching coordination; distinguishes complete-information result from excess inertia possible under incomplete information.",
+      "limits": "Industrial standards, not measured crypto migration lag; copy host’s author/publisher relationship was not verified."
+    },
+    {
+      "id": "A-DIAMOND-DYBVIG1983",
+      "title": "Bank Runs, Deposit Insurance, and Liquidity",
+      "authors": "Douglas W. Diamond; Philip H. Dybvig",
+      "publicationVersionDate": "Journal of Political Economy 91(3), June 1983, pp. 401–419",
+      "url": "https://users.econ.umn.edu/~tkehoe/classes/DiamondDybvig.pdf",
+      "sourceType": "Primary journal article scan hosted by an economics department",
+      "bodySha256": "4b41c8c32241b44c043aed9067ea2960193751ba17906a7ca813039420acd68f",
+      "bodyBytes": 420061,
+      "actualReading": "Abstract, introduction and selected model/contract passages read; full PDF retained.",
+      "locators": "Printed pp. 401–405 (abstract/introduction and model setting); selected demand-deposit/run and suspension/insurance discussion, printed pp. 411–418.",
+      "supports": "Run equilibrium and real damage conditional on demand-deposit, liquidity preference and illiquid asset model; prevention mechanisms are modeled.",
+      "limits": "Bank contract model; not evidence that a crypto asset has maturity transformation or that token selling is a run."
+    },
+    {
+      "id": "A-ALLEN-GALE2000",
+      "title": "Financial Contagion",
+      "authors": "Franklin Allen; Douglas Gale",
+      "publicationVersionDate": "Journal of Political Economy 108(1), February 2000, pp. 1–33",
+      "url": "https://www.jstor.org/stable/3038241",
+      "sourceType": "Primary journal scan (retained CTE capture)",
+      "bodySha256": "f6071926feabc2d7d4b8b2ccf8fbb19f0963c8ae102410b7b396497014edee21",
+      "actualReading": "Primary body abstract, introduction and model setup inspected from retained local PDF text.",
+      "locators": "Printed pp. 1–3 (abstract/introduction/model setup).",
+      "supports": "Contagion mechanism through overlapping interregional claims after liquidity shocks; effect depends on claim structure.",
+      "limits": "Banking model explicitly sets aside other propagation mechanisms; not general network contagion nor a crypto-frequency estimate."
+    },
+    {
+      "id": "A-BRUNNERMEIER-PEDERSEN2009",
+      "title": "Market Liquidity and Funding Liquidity",
+      "authors": "Markus K. Brunnermeier; Lasse Heje Pedersen",
+      "publicationVersionDate": "Review of Financial Studies 22(6), June 2009, pp. 2201–2238 (journal version body)",
+      "url": "https://www.edegan.com/pdfs/Brunnermeier%20Pedersen%20%282009%29%20-%20Market%20Liquidity%20and%20Funding%20Liquidity.pdf",
+      "sourceType": "Primary journal version retained in prior Blue R5 source set",
+      "bodySha256": "9ae6410e72f1cde8d806e274367a962cf3147b08caef802954d82f1df4d03f9e",
+      "bodyBytes": 512927,
+      "actualReading": "Abstract/intro and selected model/fragility/liquidity-risk passages read; complete article retained, not full proof audited.",
+      "locators": "Printed pp. 2201–2204 (abstract/intro/spiral overview); p. 2207 (model relation); pp. 2214 and 2223 (fragility and time-0 funding-liquidity passages).",
+      "supports": "Funding constraints and margins can reinforce market illiquidity under model conditions; also describes stable-margin and unconstrained cases.",
+      "limits": "Requires financed liquidity providers, capital/margin mechanisms and model assumptions; no crypto price impact coefficient."
+    },
+    {
+      "id": "A-SHANNON1949",
+      "title": "Communication Theory of Secrecy Systems",
+      "authors": "Claude E. Shannon",
+      "publicationVersionDate": "Bell System Technical Journal 28(4), October 1949, pp. 656–715",
+      "url": "https://www.worldradiohistory.com/Archive-Bell-System-Technical-Journal/40s/Bell-1949d.o.pdf",
+      "sourceType": "Primary journal PDF read in browser-rendered form; not locally captured",
+      "bodySha256": null,
+      "actualReading": "Rendered complete PDF opened; §10 perfect-secrecy discussion/Theorem 6 and key-count example read. Local curl of the source PDF returned HTTP 403; Wiley page provided citation metadata, not article body.",
+      "locators": "Printed §10, pp. 679–683; Theorem 6 at printed pp. 680–681; key-count argument/example pp. 681–682. Browser-rendered PDF parser locators in session correspond to body lines 3038–3109.",
+      "supports": "In the defined secrecy-system model, perfect secrecy iff ciphertext distribution is independent of the message; finite key-count statement.",
+      "limits": "Narrow secrecy model only; no authentication, implementation leakage or deployment claim. No original body byte hash; `sources/SHANNON-READING-RECEIPT.md` hash belongs to the receipt only."
+    },
+    {
+      "id": "A-CRYPTANALYSISBENCH2026",
+      "title": "CryptanalysisBench: Can LLMs do Cryptanalysis?",
+      "authors": "Lukas Fluri; Avital Shafran; Nicholas Carlini; Matthew Jagielski; Milad Nasr; Orr Dunkelman; Eyal Ronen; Florian Tramèr",
+      "publicationVersionDate": "arXiv:2607.18538v2 [cs.CR], 2026-07-29; preprint",
+      "url": "https://arxiv.org/abs/2607.18538",
+      "sourceType": "Primary research preprint",
+      "bodySha256": "94666fda1ea9464d88b3dfa8566f2a3b1ad40373d31ce8d859d6ce0e93394137",
+      "bodyBytes": 2327731,
+      "actualReading": "PDF abstract/introduction, §4.2 full-strength results, printed p. 9, and conclusion, p. 17 read.",
+      "locators": "Abstract/PDF pp. 1–2; §4.2 and full-strength breaks, printed p. 9; conclusion, printed p. 17.",
+      "supports": "Authors report 191 tasks; across evaluated models 14 distinct full-strength scheme breaks, only two author-classified as design flaws; remaining categories include implementation and specification issues. Preprint makes benchmark/taxonomy-specific claims.",
+      "limits": "No transfer to deployed Bitcoin/Ethereum, no population attack rate, no deployment probability; no code or attack run in this work."
+    },
+    {
+      "id": "A-HAWK2026",
+      "title": "HAWK-n Key Recovery Reduces to SVP in Dimension n/2 + 1",
+      "authors": "Zygimantas Straznickas; Stephen A. Weis",
+      "publicationVersionDate": "Author manuscript metadata created 2026-07-24; no journal version stated",
+      "url": "https://anthropic.com/document/hawk_key_recovery.pdf",
+      "sourceType": "Primary author research paper",
+      "bodySha256": "056faead316ea9a8eb01000cb9c548e79e21ad09a0684c3d52bbc1093183ac89",
+      "bodyBytes": 748154,
+      "actualReading": "Full 29-page author PDF was read by page segments in retained prior audit; current pass rechecked theorem, cost table and implementation passages. Code repository not inspected or executed.",
+      "locators": "Theorem 6.1, PDF pp. 10–11; §6.1 cost estimates, pp. 11–12; §6.2 two HAWK-256 author-run recoveries/sign-verify, pp. 12–13; Appendix A code description, p. 19.",
+      "supports": "Construction-specific deterministic reduction for power-of-two n>=4 to poly(n) exact-SVP calls in dimension n/2+1; model costs for 512/1024; two reported 256 recovery runs.",
+      "limits": "No 512/1024 recovery attempted; no deployed crypto target or economic loss; author-run and code description not independent reproduction."
+    },
+    {
+      "id": "A-HAWK-FORUM",
+      "title": "NIST PQC forum thread on HAWK key recovery and withdrawal",
+      "authors": "Named forum participants, including Daniel Apon and HAWK submission team",
+      "publicationVersionDate": "Captured messages 2026-07-28 to 2026-07-29",
+      "url": "https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/2r2u6SbHun4/m/Yge2Wo2EBAAJ",
+      "sourceType": "Primary public participant statements in retained captured HTML",
+      "bodySha256": "df3fac54f06f85a278c58f7657e9c42452e1f892ceccc86b6d2c015967fb273a",
+      "actualReading": "Prior accepted source ledger records full retained HTML parsed and relevant messages/context read; this pass checked the captured Apon message header/date and HAWK status references only.",
+      "locators": "Apon message dated 2026-07-28, brief independent-check assertion; HAWK-team message dated 2026-07-29 describes review/parameter impact/withdrawal.",
+      "supports": "That Apon publicly stated he checked the result independently and the team stated it had reviewed/withdrawn candidate.",
+      "limits": "Apon statement gives no method, scope or artifact; HAWK-team review is not independent cryptanalysis; statement is not deployed compromise."
+    },
+    {
+      "id": "A-NIST-HAWK-STATUS",
+      "title": "Round 3 Additional Signatures status",
+      "authors": "National Institute of Standards and Technology",
+      "publicationVersionDate": "Official CSRC status capture retained 2026-11-14",
+      "url": "https://csrc.nist.gov/Projects/pqc-dig-sig/round-3-additional-signatures",
+      "sourceType": "Official agency status page",
+      "bodySha256": "9048607f8973b772b574b3f2ca6fc21fdf003a2869a180a3f100a6b09f618e54",
+      "actualReading": "Relevant HAWK status row read in retained official capture.",
+      "locators": "HAWK row stating submission team withdrew from additional digital-signatures standardization process.",
+      "supports": "Administrative withdrawal status only.",
+      "limits": "Not an attack result, independent cryptanalysis or deployment event."
+    },
+    {
+      "id": "A-KATZ-SHAPIRO1985-DISCOVERY",
+      "title": "Network Externalities, Competition, and Compatibility",
+      "authors": "Michael L. Katz; Carl Shapiro (secondary metadata only)",
+      "publicationVersionDate": "Secondary bibliographic result reports AER 75(3), June 1985, pp. 424–440; not verified from primary body in this pass",
+      "url": "https://ideas.repec.org/a/aea/aecrev/v75y1985i3p424-40.html",
+      "sourceType": "Secondary bibliographic discovery only; not used as evidence",
+      "bodySha256": null,
+      "actualReading": "Search result/bibliographic record only. Direct DOI open https://doi.org/10.2307/1810129 was inaccessible; no primary body read.",
+      "locators": "None for the primary paper.",
+      "supports": "No manuscript claim. Candidate reference explicitly excluded from evidentiary basis.",
+      "limits": "Do not cite its abstract/title metadata as primary support. Relevant compatibility themes are supported in Farrell–Saloner primary body instead."
+    }
+  ],
+  "claimMap": [
+    {
+      "claim": "Anderson 2001 is distinct from Anderson–Moore 2006 and provides conceptual security-incentive antecedence.",
+      "sourceIds": [
+        "A-ANDERSON2001"
+      ],
+      "limitation": "No crypto cohort/effect estimate."
+    },
+    {
+      "claim": "Transition-adoption games are standard stylized complements/shared-provider mechanisms; no novel theorem claim.",
+      "sourceIds": [
+        "A-VARIAN2004",
+        "A-FARRELL-SALONER1985"
+      ],
+      "limitation": "No mapping to a named blockchain or measured migration."
+    },
+    {
+      "claim": "Run, contagion and liquidity-spiral language requires matched contractual/financial structure.",
+      "sourceIds": [
+        "A-DIAMOND-DYBVIG1983",
+        "A-ALLEN-GALE2000",
+        "A-BRUNNERMEIER-PEDERSEN2009"
+      ],
+      "limitation": "Conditional financial models do not estimate crypto market or claimant losses."
+    },
+    {
+      "claim": "Perfect secrecy is a narrow counterexample; body read via rendered PDF, byte-hash unresolved.",
+      "sourceIds": [
+        "A-SHANNON1949"
+      ],
+      "limitation": "No cryptographic implementation or authentication implication."
+    },
+    {
+      "claim": "AI benchmark and HAWK claims are target/parameter/source-specific and not deployment forecasts.",
+      "sourceIds": [
+        "A-CRYPTANALYSISBENCH2026",
+        "A-HAWK2026",
+        "A-HAWK-FORUM",
+        "A-NIST-HAWK-STATUS"
+      ],
+      "limitation": "No attack code, repository, independent reproduction artifact or loss event."
+    },
+    {
+      "claim": "Katz–Shapiro 1985 substantive claim deleted/narrowed because primary body unread.",
+      "sourceIds": [
+        "A-KATZ-SHAPIRO1985-DISCOVERY"
+      ],
+      "limitation": "Secondary discovery only."
+    }
+  ]
+}

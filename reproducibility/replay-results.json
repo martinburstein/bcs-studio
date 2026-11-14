@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "method": "Exhaustive action-profile and unilateral-deviation enumeration with exact integer/Fraction arithmetic.",
+  "p3": {
+    "marginals": [
+      "1/2",
+      "1/2",
+      "1/2"
+    ],
+    "pairIntersections": [
+      "1/4",
+      "1/4",
+      "1/4"
+    ],
+    "tripleIntersectionEvenParity": "0",
+    "tripleIntersectionIndependent": "1/8"
+  },
+  "p4ComplementaryGameCases": 1872,
+  "p5SharedProviderGameCases": 1872,
+  "welfareFormulaCases": 3744,
+  "p4TransferFeasibilityCases": 649,
+  "actionProfilesVisitedAcrossBothArchitectures": 28800,
+  "p6MixedIndifferenceExamples": 4,
+  "domain": {
+    "actors": [
+      2,
+      3
+    ],
+    "benefitsPerActor": "integer 0..3",
+    "costsPerActor": "integer 1..3"
+  },
+  "limitations": [
+    "Finite integer parameter grids only; no proof for all real values or arbitrary n.",
+    "P4/P5 pure-equilibrium and welfare checks are limited to the enumerated grids.",
+    "P6 checks four interior mixed-indifference examples, not a general equilibrium characterization.",
+    "No attack code, AI capability, deployment, adaptation, empirical probability, loss or portfolio inference."
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "edition": "2026-11-14-public-1",
+  "repository": "martinburstein/the-big-crypto-short",
+  "researchAsOf": "2026-11-14",
+  "source": "Selected internally reviewed research from the private lab; private history and personal portfolio chapters excluded.",
+  "documents": {
+    "ai-crypto-fragility": {
+      "pages": 22,
+      "sha256": "b66514cb26e2079d88a85aaaf2f1237d804ae5b42e41998cee96bdd82bf6fd60",
+      "sourceMarkdownSha256": "9da81e3ce892a182f83433a113dced86d49257adb0714861c0495d42e778b413",
+      "allPagesVisuallyReviewed": true
+    },
+    "black-book": {
+      "pages": 37,
+      "sha256": "7ebba74476c33b2894b8f17c073d9cdccb9ab32e602c645aa7579e6717358303",
+      "sourceMarkdownSha256": "7b390ef4223b48704c6d578fd4fed8f516457792ebc5ae37e938fe4d0bb71c52",
+      "allPagesVisuallyReviewed": true
+    },
+    "blue-book": {
+      "pages": 10,
+      "sha256": "b6ac56e92adca7be9aa4fa55aa8949c73be10bd20b5ec2f95371ea305db75fb4",
+      "sourceMarkdownSha256": "fa23550b11a5da6f60dd39c0246c9c7c46080b0ddd10644d83a29de583ce372b",
+      "allPagesVisuallyReviewed": true
+    }
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 41,
+      "sha256": "888622f96945e05a7fed2f53d4d5aae0e79665723ff192020a35bdd22f6b2129"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1087,
+      "sha256": "2165ccc69e9155451258ff96e86bb46bce26f92301265c40a9e1453102c32120"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1243,
+      "sha256": "f7381523cd023d02669f0d27ccfd32e34279e8437286811ebfed63996030e1ff"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2538,
+      "sha256": "4590b2b0651d3a394c27955d8076ed874f72c8e2690e4fe397c4e0a41678d139"
+    },
+    {
+      "path": "evidence/blue-book-sources.json",
+      "bytes": 22161,
+      "sha256": "b0848c8b572e1cf7977d705c33bad9b38a5bad2fb90487f222b54830b7f3a477"
+    },
+    {
+      "path": "evidence/review-scope.md",
+      "bytes": 1979,
+      "sha256": "393959d38cae431228e1d414415219a189f357f522f3acb378b30b46810fd0df"
+    },
+    {
+      "path": "evidence/working-paper-sources.json",
+      "bytes": 15841,
+      "sha256": "3afad274a7fc47239aec4a59e63c9318d210104c92714cd7f1f9a7febcb350c5"
+    },
+    {
+      "path": "pdf/ai-crypto-fragility.pdf",
+      "bytes": 172125,
+      "sha256": "b66514cb26e2079d88a85aaaf2f1237d804ae5b42e41998cee96bdd82bf6fd60"
+    },
+    {
+      "path": "pdf/black-book.pdf",
+      "bytes": 240811,
+      "sha256": "7ebba74476c33b2894b8f17c073d9cdccb9ab32e602c645aa7579e6717358303"
+    },
+    {
+      "path": "pdf/blue-book.pdf",
+      "bytes": 130501,
+      "sha256": "b6ac56e92adca7be9aa4fa55aa8949c73be10bd20b5ec2f95371ea305db75fb4"
+    },
+    {
+      "path": "publication/qa.json",
+      "bytes": 2374,
+      "sha256": "52e128788c62a6f2652492663b991c25ed1525f79608c9d85e5e114b3ce6de96"
+    },
+    {
+      "path": "reports/ai-crypto-fragility.md",
+      "bytes": 57102,
+      "sha256": "9da81e3ce892a182f83433a113dced86d49257adb0714861c0495d42e778b413"
+    },
+    {
+      "path": "reports/black-book.md",
+      "bytes": 105886,
+      "sha256": "7b390ef4223b48704c6d578fd4fed8f516457792ebc5ae37e938fe4d0bb71c52"
+    },
+    {
+      "path": "reports/blue-book.md",
+      "bytes": 20124,
+      "sha256": "fa23550b11a5da6f60dd39c0246c9c7c46080b0ddd10644d83a29de583ce372b"
+    },
+    {
+      "path": "reproducibility/README.md",
+      "bytes": 1167,
+      "sha256": "98fc1e6ccaf168d9eeb52220714c885ab7b3e4be8f7202ca145c85863fa447dd"
+    },
+    {
+      "path": "reproducibility/independent-replay.py",
+      "bytes": 4074,
+      "sha256": "47862a76a8e8c5d2300bae490946774adab07758e10a66240af930a49da02c93"
+    },
+    {
+      "path": "reproducibility/independent-results.json",
+      "bytes": 986,
+      "sha256": "89ef1c5167858dac6e3b23333a73968e0713baf06c54b015832404f6af58fd2a"
+    },
+    {
+      "path": "reproducibility/replay-results.json",
+      "bytes": 1163,
+      "sha256": "335fc2620c0ced8dbc614e420d5ec229e3100472458cecff33821399d621fb6d"
+    },
+    {
+      "path": "reproducibility/replay.py",
+      "bytes": 6338,
+      "sha256": "a90aa2c5b3d625810a393438898bc2cae7ae45d4183e29fd4be5f4d59cc12841"
+    },
+    {
+      "path": "tools/build_pdf.py",
+      "bytes": 10739,
+      "sha256": "e42db44dcd4bda274a0a6bb20cb7a66cc66d1f94e1638ce4b828e7ca54185dae"
+    }
+  ]
+}
