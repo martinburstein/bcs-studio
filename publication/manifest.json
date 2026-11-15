@@ -1,6 +1,6 @@
 {
   "edition": "2026-11-14-public-1",
-  "repository": "martinburstein/the-big-crypto-short",
+  "repository": "martinburstein/bcs-studio",
   "researchAsOf": "2026-11-14",
   "source": "Selected internally reviewed research from the private lab; private history and personal portfolio chapters excluded.",
   "documents": {
@@ -12,8 +12,8 @@
     },
     "black-book": {
       "pages": 37,
-      "sha256": "7ebba74476c33b2894b8f17c073d9cdccb9ab32e602c645aa7579e6717358303",
-      "sourceMarkdownSha256": "7b390ef4223b48704c6d578fd4fed8f516457792ebc5ae37e938fe4d0bb71c52",
+      "sha256": "0d64c86174c6af711f5cdf7dbb94223fb7df0a52f30e2a1cd4dbbb274b3cb091",
+      "sourceMarkdownSha256": "b04e301145ce11db9a724d6a4dbf84ba9f2b1e5fe4e55407083f1d7c8c982a3d",
       "allPagesVisuallyReviewed": true
     },
     "blue-book": {
@@ -31,18 +31,23 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 1087,
-      "sha256": "2165ccc69e9155451258ff96e86bb46bce26f92301265c40a9e1453102c32120"
+      "bytes": 1081,
+      "sha256": "a302228fa07624ecf7339742d4292d6dbea094644cfe4056b2e7ba4a9a1bb44b"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 1243,
-      "sha256": "f7381523cd023d02669f0d27ccfd32e34279e8437286811ebfed63996030e1ff"
+      "bytes": 1226,
+      "sha256": "726a4b3ac7a01d55fd5b5c5f5a007cf4e42d3234c40ce1552305019647b07f51"
     },
     {
       "path": "README.md",
-      "bytes": 2538,
-      "sha256": "4590b2b0651d3a394c27955d8076ed874f72c8e2690e4fe397c4e0a41678d139"
+      "bytes": 2557,
+      "sha256": "b3089dcf35d1659a2a7c7e44e1cf6a7b28bb0ebddb29e2c39de5428f2b6d75e3"
+    },
+    {
+      "path": "REPOSITORIES.json",
+      "bytes": 728,
+      "sha256": "db793ffe94aba01027a6e85bbf26c08503dfba96173fadba593e1c04fa1019ca"
     },
     {
       "path": "evidence/blue-book-sources.json",
@@ -66,8 +71,8 @@
     },
     {
       "path": "pdf/black-book.pdf",
-      "bytes": 240811,
-      "sha256": "7ebba74476c33b2894b8f17c073d9cdccb9ab32e602c645aa7579e6717358303"
+      "bytes": 243839,
+      "sha256": "0d64c86174c6af711f5cdf7dbb94223fb7df0a52f30e2a1cd4dbbb274b3cb091"
     },
     {
       "path": "pdf/blue-book.pdf",
@@ -76,8 +81,8 @@
     },
     {
       "path": "publication/qa.json",
-      "bytes": 2374,
-      "sha256": "52e128788c62a6f2652492663b991c25ed1525f79608c9d85e5e114b3ce6de96"
+      "bytes": 2879,
+      "sha256": "f572876114e9474b2986625bd52e9f3e11d8914ae134d6fd89839ca931695778"
     },
     {
       "path": "reports/ai-crypto-fragility.md",
@@ -86,8 +91,8 @@
     },
     {
       "path": "reports/black-book.md",
-      "bytes": 105886,
-      "sha256": "7b390ef4223b48704c6d578fd4fed8f516457792ebc5ae37e938fe4d0bb71c52"
+      "bytes": 105826,
+      "sha256": "b04e301145ce11db9a724d6a4dbf84ba9f2b1e5fe4e55407083f1d7c8c982a3d"
     },
     {
       "path": "reports/blue-book.md",
@@ -124,5 +129,6 @@
       "bytes": 10739,
       "sha256": "e42db44dcd4bda274a0a6bb20cb7a66cc66d1f94e1638ce4b828e7ca54185dae"
     }
-  ]
+  ],
+  "routingRevision": "bcs-lab-studio-2026-11-14"
 }

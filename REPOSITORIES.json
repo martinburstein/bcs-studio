@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "project": "The Big Crypto Short",
+  "privateLab": {
+    "repository": "martinburstein/bcs_lab",
+    "url": "https://github.com/martinburstein/bcs_lab",
+    "visibility": "private",
+    "purpose": "Research, drafts, experiments, source evidence, personal context and complete history."
+  },
+  "publicStudio": {
+    "repository": "martinburstein/bcs-studio",
+    "url": "https://github.com/martinburstein/bcs-studio",
+    "visibility": "public",
+    "purpose": "Curated reports, public references and reproducible publication packages."
+  },
+  "workflow": "Work in the private lab. Publish an allowlisted, reviewed export through a separate studio checkout. Never push private history to the studio."
+}

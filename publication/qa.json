@@ -10,8 +10,8 @@
     },
     "black-book": {
       "pages": 37,
-      "sha256": "7ebba74476c33b2894b8f17c073d9cdccb9ab32e602c645aa7579e6717358303",
-      "sourceMarkdownSha256": "7b390ef4223b48704c6d578fd4fed8f516457792ebc5ae37e938fe4d0bb71c52",
+      "sha256": "0d64c86174c6af711f5cdf7dbb94223fb7df0a52f30e2a1cd4dbbb274b3cb091",
+      "sourceMarkdownSha256": "b04e301145ce11db9a724d6a4dbf84ba9f2b1e5fe4e55407083f1d7c8c982a3d",
       "allPagesVisuallyReviewed": true
     },
     "blue-book": {
@@ -72,5 +72,16 @@
   "privacyChecks": "Personal holdings/balances/account labels, credentials, local paths and private review URLs absent from final text and PDF links.",
   "modelChecks": "Both preserved exact-arithmetic replay programs passed; finite-domain results retained.",
   "sourceVerification": "Selected source files matched the final verified private checkpoint before editorial transformations.",
-  "scientificReviewStatus": "AI-assisted internal review; no external peer review, calibrated collapse probability or trade-readiness certification."
+  "scientificReviewStatus": "AI-assisted internal review; no external peer review, calibrated collapse probability or trade-readiness certification.",
+  "repositoryRoutingUpdate": {
+    "date": "2026-11-14",
+    "privateRepository": "martinburstein/bcs_lab",
+    "publicRepository": "martinburstein/bcs-studio",
+    "pdfUriAnnotationsUpdated": 10,
+    "logicalReportLinksUpdated": 6,
+    "pdfTextUnchanged": true,
+    "originalBlackBookSha256": "7ebba74476c33b2894b8f17c073d9cdccb9ab32e602c645aa7579e6717358303",
+    "updatedBlackBookSha256": "0d64c86174c6af711f5cdf7dbb94223fb7df0a52f30e2a1cd4dbbb274b3cb091",
+    "all37PdfPagesPixelIdentical": true
+  }
 }
