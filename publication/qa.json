@@ -75,7 +75,7 @@
   "scientificReviewStatus": "AI-assisted internal review; no external peer review, calibrated collapse probability or trade-readiness certification.",
   "repositoryRoutingUpdate": {
     "date": "2026-11-14",
-    "privateRepository": "martinburstein/bcs_lab",
+    "privateRepository": "martinburstein/bcs-lab",
     "publicRepository": "martinburstein/bcs-studio",
     "pdfUriAnnotationsUpdated": 10,
     "logicalReportLinksUpdated": 6,

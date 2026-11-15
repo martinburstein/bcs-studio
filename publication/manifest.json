@@ -32,22 +32,22 @@
     {
       "path": "AGENTS.md",
       "bytes": 1081,
-      "sha256": "a302228fa07624ecf7339742d4292d6dbea094644cfe4056b2e7ba4a9a1bb44b"
+      "sha256": "2d838d01725494fbf9a502b53568a763cf2b9129ad39b369e6b3f81528192c4d"
     },
     {
       "path": "CONTRIBUTING.md",
       "bytes": 1226,
-      "sha256": "726a4b3ac7a01d55fd5b5c5f5a007cf4e42d3234c40ce1552305019647b07f51"
+      "sha256": "da4e43568a6d3082d41f25fb33818ccd04d3652c4a05f5b780fdfc6a7dce20d2"
     },
     {
       "path": "README.md",
       "bytes": 2557,
-      "sha256": "b3089dcf35d1659a2a7c7e44e1cf6a7b28bb0ebddb29e2c39de5428f2b6d75e3"
+      "sha256": "36e1ac0eb88681dbc9ed2e0914a7a60afd5dedae6f16dfc8a45223a0927cb1a8"
     },
     {
       "path": "REPOSITORIES.json",
       "bytes": 728,
-      "sha256": "db793ffe94aba01027a6e85bbf26c08503dfba96173fadba593e1c04fa1019ca"
+      "sha256": "53daf3709c95e7c97c0c884eaf38297416f0b1f6adc272d7b744cd4ddfb9b05f"
     },
     {
       "path": "evidence/blue-book-sources.json",
@@ -82,7 +82,7 @@
     {
       "path": "publication/qa.json",
       "bytes": 2879,
-      "sha256": "f572876114e9474b2986625bd52e9f3e11d8914ae134d6fd89839ca931695778"
+      "sha256": "6bd8f27ff5dced5acd75bbf6419ab458cfe8ab8ff4c10715336911ff616fc4be"
     },
     {
       "path": "reports/ai-crypto-fragility.md",

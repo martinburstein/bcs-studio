@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "project": "The Big Crypto Short",
   "privateLab": {
-    "repository": "martinburstein/bcs_lab",
-    "url": "https://github.com/martinburstein/bcs_lab",
+    "repository": "martinburstein/bcs-lab",
+    "url": "https://github.com/martinburstein/bcs-lab",
     "visibility": "private",
     "purpose": "Research, drafts, experiments, source evidence, personal context and complete history."
   },

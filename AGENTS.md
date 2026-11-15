@@ -1,6 +1,6 @@
 # BCS Studio publication repository
 
-This repository contains public releases of The Big Crypto Short. Conduct research, experiments, source capture, drafting, numerical changes and review in the private `martinburstein/bcs_lab`. Do not use this public repository as the working lab.
+This repository contains public releases of The Big Crypto Short. Conduct research, experiments, source capture, drafting, numerical changes and review in the private `martinburstein/bcs-lab`. Do not use this public repository as the working lab.
 
 Publish only an explicitly authorized, filtered package from a verified private checkpoint. Start from an allowlisted clean export; never mirror or merge the private repository's history. Preserve source dates, citations, counterevidence, failed or unresolved findings relevant to the conclusions, and the distinction between internal AI review and external peer review.
 

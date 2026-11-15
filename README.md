@@ -24,6 +24,6 @@ Public research on incentives, crypto-related corporate exposure, and the gap be
 
 ## Lab and publication repository
 
-The private `martinburstein/bcs_lab` holds the complete research history, drafts, experiments, failures, source captures and personal research context. Codex instances conduct research and prepare releases there. This public repository receives filtered, reviewed publication packages with a new, clean history. It does not receive the private Git history, personal portfolios, raw account material, operational records or credentials.
+The private `martinburstein/bcs-lab` holds the complete research history, drafts, experiments, failures, source captures and personal research context. Codex instances conduct research and prepare releases there. This public repository receives filtered, reviewed publication packages with a new, clean history. It does not receive the private Git history, personal portfolios, raw account material, operational records or credentials.
 
 The Blue Book and working paper retain the accepted November 14 arguments and limitations with public navigation and status wording. The public Black Book excludes the personal portfolio chapters and tailored broker appendix; its company calculations and qualifications are retained. Earlier private drafts and later unintegrated preliminary studies are excluded.
